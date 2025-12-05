@@ -1,0 +1,4 @@
+road_name,type,start_lat,start_lon,end_lat,end_lon
+Jinnah Ave,primary,33.6844,73.0479,33.688,73.05
+Faisal Ave,secondary,33.69,73.05,33.695,73.055
+Blue Area Road,tertiary,33.68,73.06,33.685,73.065
